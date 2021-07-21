@@ -1,5 +1,5 @@
 {
-  "name": "@samtutorial-libs/uikit",
+  "name": "@johnboythesixth/uikit",
   "version": "0.10.9",
   "description": "Set of UI components for pancake projects",
   "main": "dist/index.cjs.js",
